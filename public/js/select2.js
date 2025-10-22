@@ -192,7 +192,7 @@ $('.index-selector').indexSelector();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/tao/sources/robot/app/resources/js/select2.js */"./resources/js/select2.js");
+module.exports = __webpack_require__(/*! /var/www/resources/js/select2.js */"./resources/js/select2.js");
 
 
 /***/ })
