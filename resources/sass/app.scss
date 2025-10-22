@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+
+@import '../../node_modules/admin-lte/plugins/fontawesome-free/css/all.min.css';
+@import "../../node_modules/admin-lte/plugins/select2/css/select2.min.css";
+@import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
+@import "../../node_modules/admin-lte/plugins/daterangepicker/daterangepicker.css";
+@import "../../node_modules/admin-lte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css";
+@import "../../node_modules/admin-lte/plugins/toastr/toastr.min.css";
+@import "../../node_modules/admin-lte/dist/css/adminlte.min.css";
